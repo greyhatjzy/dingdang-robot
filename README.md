@@ -1,4 +1,4 @@
-Trying to connect Amazon
+Trying connect to Amazon
 =============
 
 
